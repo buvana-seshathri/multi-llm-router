@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Runtime data
+backend/history_log.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
